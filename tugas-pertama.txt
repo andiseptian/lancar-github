@@ -1,0 +1,4 @@
+Buat fitur Front
+- header
+  * tambah menu about
+- footer
